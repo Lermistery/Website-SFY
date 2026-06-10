@@ -682,7 +682,7 @@ mysqli_close($conn);
         <!-- Tab 2: Spotify Search -->
         <div id="spotify-tab" class="tab-content">
             <div class="search-container">
-                <h2>Cari Lagu Baru via Spotify API</h2>
+                <h2>Cari Lagu Baru via Spotify </h2>
                 <p style="color: var(--text-secondary); font-size: 0.85rem; margin-top: 4px;">Cari lagu, klik tambah, dan langsung berikan makna. Lagu akan otomatis masuk ke database dan bisa dipilih user.</p>
                 <div class="search-group">
                     <input type="text" id="spotify-search-input" class="form-control" placeholder="Ketik judul lagu atau nama penyanyi...">
